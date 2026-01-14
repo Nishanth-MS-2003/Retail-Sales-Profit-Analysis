@@ -1,3 +1,6 @@
+![Dashboard Preview](images/dashboard_preview.png)
+
+
 Retail-Sales-Profit-Analysis
 
 Project Overview
@@ -78,23 +81,6 @@ Recommendations
 * Re-evaluate pricing and cost structure for the Furniture category
 * Conduct regional cost and pricing review for Central region
 * Focus on high-margin products and rationalize loss-making SKUs
-
-
-Repository Structure
-
-Retail-Sales-Profit-Analysis/
-│
-├── data/
-│   └── clean_superstore.csv
-│
-├── powerbi/
-│   └── Sales_Profitability_Dashboard.pbix
-│
-├── images/
-│   └── dashboard_preview.png
-│
-├── INSIGHTS.pdf
-└── README.md
 
 
 Outcome
