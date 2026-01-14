@@ -21,9 +21,9 @@ Business Objectives
 
 Tools & Technologies
 
-**Power BI Desktop** – Data modeling & visualization
-**Excel / CSV** – Data cleaning, Real time Data from Kaggle
-**DAX** – Measures and KPIs
+* Power BI Desktop – Data modeling & visualization
+* Excel / CSV – Data cleaning, Real time Data from Kaggle
+* DAX – Measures and KPIs
 
 
 Key KPIs
