@@ -28,9 +28,9 @@ Tools & Technologies
 
 Key KPIs
 
-**Total Sales:** ₹2.30M
-**Total Profit:** ₹286.40K
-**Profit Margin:** ~12%
+*Total Sales: ₹2.30M
+*Total Profit: ₹286.40K
+*Profit Margin: ~12%
 
 These KPIs provide a high-level view of business health and profitability.
 
