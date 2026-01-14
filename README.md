@@ -1,4 +1,4 @@
-Sales & Profitability Performance Dashboard
+Retail-Sales-Profit-Analysis
 
 Project Overview
 
@@ -106,6 +106,5 @@ This project demonstrates the ability to:
 * Apply analytical thinking to real business problems
 Aspiring Data Analyst | Power BI | SQL | Python
 
----
 
 *This project is created for learning, portfolio development, and demonstration of data analytics skills.*
