@@ -1,4 +1,4 @@
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 
 Retail-Sales-Profit-Analysis
